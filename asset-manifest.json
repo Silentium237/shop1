@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shop1/static/css/main.a8d8ee4c.chunk.css",
+    "main.js": "/shop1/static/js/main.c4b37a95.chunk.js",
+    "main.js.map": "/shop1/static/js/main.c4b37a95.chunk.js.map",
+    "runtime-main.js": "/shop1/static/js/runtime-main.9d102129.js",
+    "runtime-main.js.map": "/shop1/static/js/runtime-main.9d102129.js.map",
+    "static/js/2.abf9c7af.chunk.js": "/shop1/static/js/2.abf9c7af.chunk.js",
+    "static/js/2.abf9c7af.chunk.js.map": "/shop1/static/js/2.abf9c7af.chunk.js.map",
+    "index.html": "/shop1/index.html",
+    "precache-manifest.bc9e01d3f98569227847485cd04bc2c2.js": "/shop1/precache-manifest.bc9e01d3f98569227847485cd04bc2c2.js",
+    "service-worker.js": "/shop1/service-worker.js",
+    "static/css/main.a8d8ee4c.chunk.css.map": "/shop1/static/css/main.a8d8ee4c.chunk.css.map",
+    "static/js/2.abf9c7af.chunk.js.LICENSE.txt": "/shop1/static/js/2.abf9c7af.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/shop1/static/media/ProximaNova-Regular.b7c51278.eot",
+    "static/media/empty-cart.png": "/shop1/static/media/empty-cart.ceb2faf0.png",
+    "static/media/pizza-logo.svg": "/shop1/static/media/pizza-logo.f3327011.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d102129.js",
+    "static/js/2.abf9c7af.chunk.js",
+    "static/css/main.a8d8ee4c.chunk.css",
+    "static/js/main.c4b37a95.chunk.js"
+  ]
+}
